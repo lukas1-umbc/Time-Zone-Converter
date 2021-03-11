@@ -1,0 +1,710 @@
+{
+    "A": {
+        "offset": "UTC +1"
+    },
+    "ACDT": {
+        "offset": "UTC +10:30"
+    },
+    "ACST": {
+        "offset": "UTC +9:30"
+    },
+    "ACT": {
+        "offset": "UTC -5"
+    },
+    "ACWST": {
+        "offset": "UTC +8:45"
+    },
+    "ADT UTC+4": {
+        "offset": "UTC +4"
+    },
+    "ADT UTC-3": {
+        "offset": "UTC -3"
+    },
+    "AEDT": {
+        "offset": "UTC +11"
+    },
+    "AEST": {
+        "offset": "UTC +10"
+    },
+    "AFT": {
+        "offset": "UTC +4:30"
+    },
+    "AKDT": {
+        "offset": "UTC -8"
+    },
+    "AKST": {
+        "offset": "UTC -9"
+    },
+    "ALMT": {
+        "offset": "UTC +6"
+    },
+    "AMST UTC-3": {
+        "offset": "UTC -3"
+    },
+    "AMST UTC+5": {
+        "offset": "UTC +5"
+    },
+    "AMT UTC-4": {
+        "offset": "UTC -4"
+    },
+    "AMT UTC+4": {
+        "offset": "UTC +4"
+    },
+    "ANAST": {
+        "offset": "UTC +12"
+    },
+    "ANAT": {
+        "offset": "UTC +12"
+    },
+    "AQTT": {
+        "offset": "UTC +5"
+    },
+    "ART": {
+        "offset": "UTC -3"
+    },
+    "AST UTC+3": {
+        "offset": "UTC +3"
+    },
+    "AST UTC-4": {
+        "offset": "UTC -4"
+    },
+    "AWDT": {
+        "offset": "UTC +9"
+    },
+    "AWST": {
+        "offset": "UTC +8"
+    },
+    "AZOST": {
+        "offset": "UTC +0"
+    },
+    "AZOT": {
+        "offset": "UTC -1"
+    },
+    "AZST": {
+        "offset": "UTC +5"
+    },
+    "AZT": {
+        "offset": "UTC +4"
+    },
+    "AoE": {
+        "offset": "UTC -12"
+    },
+    "B": {
+        "offset": "UTC +2"
+    },
+    "BNT": {
+        "offset": "UTC +8"
+    },
+    "BOT": {
+        "offset": "UTC -4"
+    },
+    "BRST": {
+        "offset": "UTC -2"
+    },
+    "BRT": {
+        "offset": "UTC -3"
+    },
+    "BST UTC+6": {
+        "offset": "UTC +6"
+    },
+    "BST UTC+11": {
+        "offset": "UTC +11"
+    },
+    "BST UTC+1": {
+        "offset": "UTC +1"
+    },
+    "BTT": {
+        "offset": "UTC +6"
+    },
+    "C": {
+        "offset": "UTC +3"
+    },
+    "CAST": {
+        "offset": "UTC +8"
+    },
+    "CAT": {
+        "offset": "UTC +2"
+    },
+    "CCT": {
+        "offset": "UTC +6:30"
+    },
+    "CDT UTC-5": {
+        "offset": "UTC -5"
+    },
+    "CDT UTC-4": {
+        "offset": "UTC -4"
+    },
+    "CEST": {
+        "offset": "UTC +2"
+    },
+    "CET": {
+        "offset": "UTC +1"
+    },
+    "CHADT": {
+        "offset": "UTC +13:45"
+    },
+    "CHAST": {
+        "offset": "UTC +12:45"
+    },
+    "CHOST": {
+        "offset": "UTC +9"
+    },
+    "CHOT": {
+        "offset": "UTC +8"
+    },
+    "CHUT": {
+        "offset": "UTC +10"
+    },
+    "CIDST": {
+        "offset": "UTC -4"
+    },
+    "CIST": {
+        "offset": "UTC -5"
+    },
+    "CKT": {
+        "offset": "UTC -10"
+    },
+    "CLST": {
+        "offset": "UTC -3"
+    },
+    "CLT": {
+        "offset": "UTC -4"
+    },
+    "COT": {
+        "offset": "UTC -5"
+    },
+    "CST UTC-6": {
+        "offset": "UTC -6"
+    },
+    "CST UTC+8": {
+        "offset": "UTC +8"
+    },
+    "CST UTC-5": {
+        "offset": "UTC -5"
+    },
+    "CVT": {
+        "offset": "UTC -1"
+    },
+    "CXT": {
+        "offset": "UTC +7"
+    },
+    "ChST": {
+        "offset": "UTC +10"
+    },
+    "D": {
+        "offset": "UTC +4"
+    },
+    "DAVT": {
+        "offset": "UTC +7"
+    },
+    "DDUT": {
+        "offset": "UTC +10"
+    },
+    "E": {
+        "offset": "UTC +5"
+    },
+    "EASST": {
+        "offset": "UTC -5"
+    },
+    "EAST": {
+        "offset": "UTC -6"
+    },
+    "EAT": {
+        "offset": "UTC +3"
+    },
+    "ECT": {
+        "offset": "UTC -5"
+    },
+    "EDT": {
+        "offset": "UTC -4"
+    },
+    "EEST": {
+        "offset": "UTC +3"
+    },
+    "EET": {
+        "offset": "UTC +2"
+    },
+    "EGST": {
+        "offset": "UTC +0"
+    },
+    "EGT": {
+        "offset": "UTC -1"
+    },
+    "EST": {
+        "offset": "UTC -5"
+    },
+    "F": {
+        "offset": "UTC +6"
+    },
+    "FET": {
+        "offset": "UTC +3"
+    },
+    "FJST": {
+        "offset": "UTC +13"
+    },
+    "FJT": {
+        "offset": "UTC +12"
+    },
+    "FKST": {
+        "offset": "UTC -3"
+    },
+    "FKT": {
+        "offset": "UTC -4"
+    },
+    "FNT": {
+        "offset": "UTC -2"
+    },
+    "G": {
+        "offset": "UTC +7"
+    },
+    "GALT": {
+        "offset": "UTC -6"
+    },
+    "GAMT": {
+        "offset": "UTC -9"
+    },
+    "GET": {
+        "offset": "UTC +4"
+    },
+    "GFT": {
+        "offset": "UTC -3"
+    },
+    "GILT": {
+        "offset": "UTC +12"
+    },
+    "GMT": {
+        "offset": "UTC +0"
+    },
+    "GST UTC+4": {
+        "offset": "UTC +4"
+    },
+    "GST UTC-2": {
+        "offset": "UTC -2"
+    },
+    "GYT": {
+        "offset": "UTC -4"
+    },
+    "H": {
+        "offset": "UTC +8"
+    },
+    "HDT": {
+        "offset": "UTC -9"
+    },
+    "HKT": {
+        "offset": "UTC +8"
+    },
+    "HOVST": {
+        "offset": "UTC +8"
+    },
+    "HOVT": {
+        "offset": "UTC +7"
+    },
+    "HST": {
+        "offset": "UTC -10"
+    },
+    "I": {
+        "offset": "UTC +9"
+    },
+    "ICT": {
+        "offset": "UTC +7"
+    },
+    "IDT": {
+        "offset": "UTC +3"
+    },
+    "IOT": {
+        "offset": "UTC +6"
+    },
+    "IRDT": {
+        "offset": "UTC +4:30"
+    },
+    "IRKST": {
+        "offset": "UTC +9"
+    },
+    "IRKT": {
+        "offset": "UTC +8"
+    },
+    "IRST": {
+        "offset": "UTC +3:30"
+    },
+    "IST UTC+5:30": {
+        "offset": "UTC +5:30"
+    },
+    "IST UTC+1": {
+        "offset": "UTC +1"
+    },
+    "IST UTC+2": {
+        "offset": "UTC +2"
+    },
+    "JST": {
+        "offset": "UTC +9"
+    },
+    "K": {
+        "offset": "UTC +10"
+    },
+    "KGT": {
+        "offset": "UTC +6"
+    },
+    "KOST": {
+        "offset": "UTC +11"
+    },
+    "KRAST": {
+        "offset": "UTC +8"
+    },
+    "KRAT": {
+        "offset": "UTC +7"
+    },
+    "KST": {
+        "offset": "UTC +9"
+    },
+    "KUYT": {
+        "offset": "UTC +4"
+    },
+    "L": {
+        "offset": "UTC +11"
+    },
+    "LHDT": {
+        "offset": "UTC +11"
+    },
+    "LHST": {
+        "offset": "UTC +10:30"
+    },
+    "LINT": {
+        "offset": "UTC +14"
+    },
+    "M": {
+        "offset": "UTC +12"
+    },
+    "MAGST": {
+        "offset": "UTC +12"
+    },
+    "MAGT": {
+        "offset": "UTC +11"
+    },
+    "MART": {
+        "offset": "UTC -9:30"
+    },
+    "MAWT": {
+        "offset": "UTC +5"
+    },
+    "MDT": {
+        "offset": "UTC -6"
+    },
+    "MHT": {
+        "offset": "UTC +12"
+    },
+    "MMT": {
+        "offset": "UTC +6:30"
+    },
+    "MSD": {
+        "offset": "UTC +4"
+    },
+    "MSK": {
+        "offset": "UTC +3"
+    },
+    "MST": {
+        "offset": "UTC -7"
+    },
+    "MUT": {
+        "offset": "UTC +4"
+    },
+    "MVT": {
+        "offset": "UTC +5"
+    },
+    "MYT": {
+        "offset": "UTC +8"
+    },
+    "N": {
+        "offset": "UTC -1"
+    },
+    "NCT": {
+        "offset": "UTC +11"
+    },
+    "NDT": {
+        "offset": "UTC -2:30"
+    },
+    "NFDT": {
+        "offset": "UTC +12"
+    },
+    "NFT": {
+        "offset": "UTC +11"
+    },
+    "NOVST": {
+        "offset": "UTC +7"
+    },
+    "NOVT": {
+        "offset": "UTC +7"
+    },
+    "NPT": {
+        "offset": "UTC +5:45"
+    },
+    "NRT": {
+        "offset": "UTC +12"
+    },
+    "NST": {
+        "offset": "UTC -3:30"
+    },
+    "NUT": {
+        "offset": "UTC -11"
+    },
+    "NZDT": {
+        "offset": "UTC +13"
+    },
+    "NZST": {
+        "offset": "UTC +12"
+    },
+    "O": {
+        "offset": "UTC -2"
+    },
+    "OMSST": {
+        "offset": "UTC +7"
+    },
+    "OMST": {
+        "offset": "UTC +6"
+    },
+    "ORAT": {
+        "offset": "UTC +5"
+    },
+    "P": {
+        "offset": "UTC -3"
+    },
+    "PDT": {
+        "offset": "UTC -7"
+    },
+    "PET": {
+        "offset": "UTC -5"
+    },
+    "PETST": {
+        "offset": "UTC +12"
+    },
+    "PETT": {
+        "offset": "UTC +12"
+    },
+    "PGT": {
+        "offset": "UTC +10"
+    },
+    "PHOT": {
+        "offset": "UTC +13"
+    },
+    "PHT": {
+        "offset": "UTC +8"
+    },
+    "PKT": {
+        "offset": "UTC +5"
+    },
+    "PMDT": {
+        "offset": "UTC -2"
+    },
+    "PMST": {
+        "offset": "UTC -3"
+    },
+    "PONT": {
+        "offset": "UTC +11"
+    },
+    "PST": {
+        "offset": "UTC -8"
+    },
+    "PWT": {
+        "offset": "UTC +9"
+    },
+    "PYST": {
+        "offset": "UTC -3"
+    },
+    "PYT UTC-4": {
+        "offset": "UTC -4"
+    },
+    "PYT UTC+8:30": {
+        "offset": "UTC +8:30"
+    },
+    "Q": {
+        "offset": "UTC -4"
+    },
+    "QYZT": {
+        "offset": "UTC +6"
+    },
+    "R": {
+        "offset": "UTC -5"
+    },
+    "RET": {
+        "offset": "UTC +4"
+    },
+    "ROTT": {
+        "offset": "UTC -3"
+    },
+    "S": {
+        "offset": "UTC -6"
+    },
+    "SAKT": {
+        "offset": "UTC +11"
+    },
+    "SAMT": {
+        "offset": "UTC +4"
+    },
+    "SAST": {
+        "offset": "UTC +2"
+    },
+    "SBT": {
+        "offset": "UTC +11"
+    },
+    "SCT": {
+        "offset": "UTC +4"
+    },
+    "SGT": {
+        "offset": "UTC +8"
+    },
+    "SRET": {
+        "offset": "UTC +11"
+    },
+    "SRT": {
+        "offset": "UTC -3"
+    },
+    "SST": {
+        "offset": "UTC -11"
+    },
+    "SYOT": {
+        "offset": "UTC +3"
+    },
+    "T": {
+        "offset": "UTC -7"
+    },
+    "TAHT": {
+        "offset": "UTC -10"
+    },
+    "TFT": {
+        "offset": "UTC +5"
+    },
+    "TJT": {
+        "offset": "UTC +5"
+    },
+    "TKT": {
+        "offset": "UTC +13"
+    },
+    "TLT": {
+        "offset": "UTC +9"
+    },
+    "TMT": {
+        "offset": "UTC +5"
+    },
+    "TOST": {
+        "offset": "UTC +14"
+    },
+    "TOT": {
+        "offset": "UTC +13"
+    },
+    "TRT": {
+        "offset": "UTC +3"
+    },
+    "TVT": {
+        "offset": "UTC +12"
+    },
+    "U": {
+        "offset": "UTC -8"
+    },
+    "ULAST": {
+        "offset": "UTC +9"
+    },
+    "ULAT": {
+        "offset": "UTC +8"
+    },
+    "UTC": {
+        "offset": "UTC"
+    },
+    "UYST": {
+        "offset": "UTC -2"
+    },
+    "UYT": {
+        "offset": "UTC -3"
+    },
+    "UZT": {
+        "offset": "UTC +5"
+    },
+    "V": {
+        "offset": "UTC -9"
+    },
+    "VET": {
+        "offset": "UTC -4"
+    },
+    "VLAST": {
+        "offset": "UTC +11"
+    },
+    "VLAT": {
+        "offset": "UTC +10"
+    },
+    "VOST": {
+        "offset": "UTC +6"
+    },
+    "VUT": {
+        "offset": "UTC +11"
+    },
+    "W": {
+        "offset": "UTC -10"
+    },
+    "WAKT": {
+        "offset": "UTC +12"
+    },
+    "WARST": {
+        "offset": "UTC -3"
+    },
+    "WAST": {
+        "offset": "UTC +2"
+    },
+    "WAT": {
+        "offset": "UTC +1"
+    },
+    "WEST": {
+        "offset": "UTC +1"
+    },
+    "WET": {
+        "offset": "UTC +0"
+    },
+    "WFT": {
+        "offset": "UTC +12"
+    },
+    "WGST": {
+        "offset": "UTC -2"
+    },
+    "WGT": {
+        "offset": "UTC -3"
+    },
+    "WIB": {
+        "offset": "UTC +7"
+    },
+    "WIT": {
+        "offset": "UTC +9"
+    },
+    "WITA": {
+        "offset": "UTC +8"
+    },
+    "WST UTC+14": {
+        "offset": "UTC +14"
+    },
+    "WST UTC+1": {
+        "offset": "UTC +1"
+    },
+    "WT": {
+        "offset": "UTC +0"
+    },
+    "X": {
+        "offset": "UTC -11"
+    },
+    "Y": {
+        "offset": "UTC -12"
+    },
+    "YAKST": {
+        "offset": "UTC +10"
+    },
+    "YAKT": {
+        "offset": "UTC +9"
+    },
+    "YAPT": {
+        "offset": "UTC +10"
+    },
+    "YEKST": {
+        "offset": "UTC +6"
+    },
+    "YEKT": {
+        "offset": "UTC +5"
+    },
+    "Z": {
+        "offset": "UTC +0"
+    }
+}
