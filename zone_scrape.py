@@ -37,7 +37,7 @@ repeats = {key:val for key, val in repeats.items() if val > 1}
 
 #write the contents of the data list into a json file, taking into account repeat abbreviations
 #write repeat abbreviations like the following example:
-#WST is both West Samoa Time (UTC +14) and Western Sahara Summer Time (UTC +0)
+#WST is both West Samoa Time (UTC +14) and Western Sahara Summer Time (UTC +1)
 #West Samoa Time: WST UTC+14
 #Western Sahara Summer Time: WST UTC+1
 json_dict = {}
