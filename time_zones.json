@@ -14,10 +14,10 @@
     "ACWST": {
         "offset": "UTC +8:45"
     },
-    "ADT UTC+4": {
+    "ADT-UTC+4": {
         "offset": "UTC +4"
     },
-    "ADT UTC-3": {
+    "ADT-UTC-3": {
         "offset": "UTC -3"
     },
     "AEDT": {
@@ -38,16 +38,16 @@
     "ALMT": {
         "offset": "UTC +6"
     },
-    "AMST UTC-3": {
+    "AMST-UTC-3": {
         "offset": "UTC -3"
     },
-    "AMST UTC+5": {
+    "AMST-UTC+5": {
         "offset": "UTC +5"
     },
-    "AMT UTC-4": {
+    "AMT-UTC-4": {
         "offset": "UTC -4"
     },
-    "AMT UTC+4": {
+    "AMT-UTC+4": {
         "offset": "UTC +4"
     },
     "ANAST": {
@@ -62,10 +62,10 @@
     "ART": {
         "offset": "UTC -3"
     },
-    "AST UTC+3": {
+    "AST-UTC+3": {
         "offset": "UTC +3"
     },
-    "AST UTC-4": {
+    "AST-UTC-4": {
         "offset": "UTC -4"
     },
     "AWDT": {
@@ -104,13 +104,13 @@
     "BRT": {
         "offset": "UTC -3"
     },
-    "BST UTC+6": {
+    "BST-UTC+6": {
         "offset": "UTC +6"
     },
-    "BST UTC+11": {
+    "BST-UTC+11": {
         "offset": "UTC +11"
     },
-    "BST UTC+1": {
+    "BST-UTC+1": {
         "offset": "UTC +1"
     },
     "BTT": {
@@ -128,10 +128,10 @@
     "CCT": {
         "offset": "UTC +6:30"
     },
-    "CDT UTC-5": {
+    "CDT-UTC-5": {
         "offset": "UTC -5"
     },
-    "CDT UTC-4": {
+    "CDT-UTC-4": {
         "offset": "UTC -4"
     },
     "CEST": {
@@ -173,13 +173,13 @@
     "COT": {
         "offset": "UTC -5"
     },
-    "CST UTC-6": {
+    "CST-UTC-6": {
         "offset": "UTC -6"
     },
-    "CST UTC+8": {
+    "CST-UTC+8": {
         "offset": "UTC +8"
     },
-    "CST UTC-5": {
+    "CST-UTC-5": {
         "offset": "UTC -5"
     },
     "CVT": {
@@ -275,10 +275,10 @@
     "GMT": {
         "offset": "UTC +0"
     },
-    "GST UTC+4": {
+    "GST-UTC+4": {
         "offset": "UTC +4"
     },
-    "GST UTC-2": {
+    "GST-UTC-2": {
         "offset": "UTC -2"
     },
     "GYT": {
@@ -326,13 +326,13 @@
     "IRST": {
         "offset": "UTC +3:30"
     },
-    "IST UTC+5:30": {
+    "IST-UTC+5:30": {
         "offset": "UTC +5:30"
     },
-    "IST UTC+1": {
+    "IST-UTC+1": {
         "offset": "UTC +1"
     },
-    "IST UTC+2": {
+    "IST-UTC+2": {
         "offset": "UTC +2"
     },
     "JST": {
@@ -509,10 +509,10 @@
     "PYST": {
         "offset": "UTC -3"
     },
-    "PYT UTC-4": {
+    "PYT-UTC-4": {
         "offset": "UTC -4"
     },
-    "PYT UTC+8:30": {
+    "PYT-UTC+8:30": {
         "offset": "UTC +8:30"
     },
     "Q": {
@@ -674,10 +674,10 @@
     "WITA": {
         "offset": "UTC +8"
     },
-    "WST UTC+14": {
+    "WST-UTC+14": {
         "offset": "UTC +14"
     },
-    "WST UTC+1": {
+    "WST-UTC+1": {
         "offset": "UTC +1"
     },
     "WT": {

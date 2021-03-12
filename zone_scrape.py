@@ -49,7 +49,7 @@ for tz in data:
     #check if the abbreviation is a repeat
     #we exclude ACT because the zone it shared an abbreviation with was redundant, and PST because both zones named PST have the same offset
     if abbr in repeats and abbr != 'ACT' and abbr != 'PST':
-        abbr = abbr + ' ' + offset.replace(' ', '')
+        abbr = abbr + '-' + offset.replace(' ', '')
 
     json_dict[abbr] = {'offset': offset}
 
