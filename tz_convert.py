@@ -26,14 +26,19 @@ def convert(given, target):
     given_dt = datetime.datetime(100, 1, 1, hour, min)
 
     #UTC offset for given TZ
-    given_os = int(tz_dict[tz].split(' ')[1])
+    given_os = tz_dict[tz].split(' ')[1]
+    if ':30' in given_os:
+        given_os = int(given_os[:-3]) + 0.5
+    else:
+        target_os = int(given_os)
+
     #UTC offset for target TZ
     target_os = tz_dict[target].split(' ')[1]
     if ':30' in target_os:
         target_os = int(target_os[:-3]) + 0.5
     else:
         target_os = int(target_os)
-    
+
     #the amount of time to add to the given time to get to the target time zone
     diff = target_os - given_os
     delta = datetime.timedelta(hours=diff)
@@ -43,7 +48,7 @@ def convert(given, target):
     target_hour = new_time.hour  
     target_min = str(new_time.minute) + '0' if new_time.minute == 0 else str(new_time.minute) 
     target_tod = ''
-    
+
     #convert back to 12 hour time if we have to
     if tod == 'AM' or tod == 'PM':
         #past noon, so we convert to 12 hour time
