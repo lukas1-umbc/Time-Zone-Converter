@@ -18,12 +18,18 @@ def convert(given, target):
     tz = given[2]
     tod = given[3]
 
-    #need to get the given time in a datetime() format
-    #have to convert to 24 hour if in PM
-    if tod == 'PM':
-        hour = hour + 12
-    
-    given_dt = datetime.datetime(100, 1, 1, hour, min)
+    #convert to 24 hour time for calculation if needed
+    if min == 0:
+        min = '00'
+
+    given_dt = ''
+
+    if tod == 'AM' or tod == 'PM':
+        d = datetime.datetime.strptime(str(hour) + ':' + str(min) + ' ' + tod, '%I:%M %p')
+        d = d.strftime('%H:%M')
+        given_dt = datetime.datetime(100, 1, 1, int(d[:-3]), int(min))
+    else:
+        given_dt = datetime.datetime(100, 1, 1, int(hour), int(min))
 
     #UTC offset for given TZ
     given_os = tz_dict[tz].split(' ')[1]
@@ -51,20 +57,10 @@ def convert(given, target):
 
     #convert back to 12 hour time if we have to
     if tod == 'AM' or tod == 'PM':
-        #past noon, so we convert to 12 hour time
-        #we don't need to do this if we want 12 hour time but the time is before noon; the number is the same
-        if target_hour > 12:
-            target_hour -= 12
-            target_tod = 'PM'
-        #AM/PM changes at noon so we need a special case
-        elif target_hour == 12:
-            target_tod = 'PM'
-        #12 hour time, so we write midnight as 12:00, not 0:00
-        elif target_hour == 0:
-            target_hour = 12
-            target_tod = 'AM'
-        #otherwise the AM/PM is the same
-        else:
-            target_tod = tod
+        d = datetime.datetime.strptime(str(target_hour) + ':' + target_min, '%H:%M')
+        d = d.strftime('%I:%M %p')
+        return str(d)
+    else:
+        return str(target_hour) + ':' + target_min
 
-    return str(target_hour) + ':' + target_min + ' ' + target_tod
+    
