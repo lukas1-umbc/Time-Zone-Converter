@@ -30,7 +30,7 @@ def convert(given, target):
     if ':30' in given_os:
         given_os = int(given_os[:-3]) + 0.5
     else:
-        target_os = int(given_os)
+        given_os = int(given_os)
 
     #UTC offset for target TZ
     target_os = tz_dict[target].split(' ')[1]
